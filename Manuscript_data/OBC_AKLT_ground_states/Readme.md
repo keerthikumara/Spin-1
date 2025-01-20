@@ -1,0 +1,1 @@
+Notebooks containing the Open Boundary Condition (OBC) AKLT ground state circuits and additional circuits required to compute the full ternary probability vector. The notebooks are named according to the naming convention in the manuscript. The hardware data has also been uploaded as seperate json files.
