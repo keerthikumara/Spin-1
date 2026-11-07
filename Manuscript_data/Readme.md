@@ -1,4 +1,4 @@
-This repository contains the jupyter notebooks containing the job submissions of AKLT qutrit circuits discussed in the manuscript. 
+This repository contains the jupyter notebooks containing the job submissions of AKLT qutrit circuits discussed in the manuscript https://arxiv.org/abs/2412.19786. 
 
 1. [Calibration_docs](Calibration_docs)
 
